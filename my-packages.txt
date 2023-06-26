@@ -1,0 +1,16 @@
+linux
+linux-firmware
+efibootmagr
+gcc
+make
+cmake
+git
+neovim
+yay
+zsh
+base
+dhcp
+dhcpcd
+neofetch
+ccls
+fzf
